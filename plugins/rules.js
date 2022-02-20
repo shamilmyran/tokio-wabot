@@ -11,7 +11,7 @@ let handler = async m => m.reply(`
     
 🔖 _If you want this bot in your group then contact owner by typing !owner/creator._
 
-🔖 _Do ask owner you are human or bot._
+🔖 _Do not ask owner you are human or bot._
     
 🔖 _Enjoy the bot and have fun._
 `.trim()) // Tambah sendiri kalo mau
