@@ -11,7 +11,7 @@ let handler = async m => m.reply(`
     
 🔖 _If you want this bot in your group then contact Draken-Kun by typing !owner/creator._
 
-🔖 _Do not use bot in PM.
+🔖 _Do not use bot in PM._
     
 🔖 _Enjoy the bot and have fun._
 `.trim()) // Tambah sendiri kalo mau
